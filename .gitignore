@@ -1,0 +1,13 @@
+### STS ###
+.settings/
+.apt_generated
+.classpath
+.factorypath
+.project
+target
+.settings
+.springBeans
+*.iml
+.idea/
+/mall4uni-app/*.iml
+/mall4vue-admin/package-lock.json
